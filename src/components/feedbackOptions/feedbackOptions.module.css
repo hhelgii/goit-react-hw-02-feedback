@@ -1,0 +1,17 @@
+.buttonList{
+    display: flex;
+    gap: 8px;
+
+}
+.rateButton{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border: 1px solid black;
+    font-family: inherit;
+    border-radius: 5px;
+
+}
